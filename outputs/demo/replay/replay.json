@@ -1,0 +1,359 @@
+{
+  "W": {
+    "first_turn": {
+      "younger_family_member_pushes": 5,
+      "new_hires_implement": 7,
+      "older_owners_see_no_need": 7,
+      "cheap_labour_blocks_automation": 11,
+      "customer_requirements_drive_adoption": 11,
+      "packaged_software_misfit": 9,
+      "approval_by_senior_or_partners": 15,
+      "genai_for_writing": 23
+    },
+    "timeline": [
+      {
+        "time": "5:00",
+        "upto_turn": 7,
+        "share_of_call": 0.13,
+        "still_empty": [
+          "cheap_labour_blocks_automation",
+          "labour_scarcity_pushes_automation",
+          "customer_requirements_drive_adoption",
+          "packaged_software_misfit",
+          "software_fees_exceed_margins",
+          "tool_replaces_paid_outside_service",
+          "ai_used_to_build_software",
+          "genai_for_writing",
+          "approval_by_senior_or_partners"
+        ]
+      },
+      {
+        "time": "10:00",
+        "upto_turn": 11,
+        "share_of_call": 0.26,
+        "still_empty": [
+          "labour_scarcity_pushes_automation",
+          "software_fees_exceed_margins",
+          "tool_replaces_paid_outside_service",
+          "ai_used_to_build_software",
+          "genai_for_writing",
+          "approval_by_senior_or_partners"
+        ]
+      },
+      {
+        "time": "15:00",
+        "upto_turn": 14,
+        "share_of_call": 0.39,
+        "still_empty": [
+          "labour_scarcity_pushes_automation",
+          "software_fees_exceed_margins",
+          "tool_replaces_paid_outside_service",
+          "ai_used_to_build_software",
+          "genai_for_writing",
+          "approval_by_senior_or_partners"
+        ]
+      },
+      {
+        "time": "20:00",
+        "upto_turn": 17,
+        "share_of_call": 0.53,
+        "still_empty": [
+          "labour_scarcity_pushes_automation",
+          "software_fees_exceed_margins",
+          "tool_replaces_paid_outside_service",
+          "ai_used_to_build_software",
+          "genai_for_writing"
+        ]
+      },
+      {
+        "time": "25:00",
+        "upto_turn": 19,
+        "share_of_call": 0.66,
+        "still_empty": [
+          "labour_scarcity_pushes_automation",
+          "software_fees_exceed_margins",
+          "tool_replaces_paid_outside_service",
+          "ai_used_to_build_software",
+          "genai_for_writing"
+        ]
+      },
+      {
+        "time": "30:00",
+        "upto_turn": 21,
+        "share_of_call": 0.79,
+        "still_empty": [
+          "labour_scarcity_pushes_automation",
+          "software_fees_exceed_margins",
+          "tool_replaces_paid_outside_service",
+          "ai_used_to_build_software",
+          "genai_for_writing"
+        ]
+      },
+      {
+        "time": "35:00",
+        "upto_turn": 23,
+        "share_of_call": 0.92,
+        "still_empty": [
+          "labour_scarcity_pushes_automation",
+          "software_fees_exceed_margins",
+          "tool_replaces_paid_outside_service",
+          "ai_used_to_build_software"
+        ]
+      },
+      {
+        "time": "38:00",
+        "upto_turn": 26,
+        "share_of_call": 1.0,
+        "still_empty": [
+          "labour_scarcity_pushes_automation",
+          "software_fees_exceed_margins",
+          "tool_replaces_paid_outside_service",
+          "ai_used_to_build_software"
+        ]
+      }
+    ]
+  },
+  "X": {
+    "first_turn": {
+      "younger_family_member_pushes": 7,
+      "tool_replaces_paid_outside_service": 5,
+      "genai_for_writing": 5,
+      "approval_by_senior_or_partners": 7,
+      "new_hires_implement": 13,
+      "older_owners_see_no_need": 11,
+      "customer_requirements_drive_adoption": 15,
+      "labour_scarcity_pushes_automation": 19
+    },
+    "timeline": [
+      {
+        "time": "5:00",
+        "upto_turn": 7,
+        "share_of_call": 0.12,
+        "still_empty": [
+          "cheap_labour_blocks_automation",
+          "labour_scarcity_pushes_automation",
+          "customer_requirements_drive_adoption",
+          "new_hires_implement",
+          "packaged_software_misfit",
+          "software_fees_exceed_margins",
+          "ai_used_to_build_software",
+          "older_owners_see_no_need"
+        ]
+      },
+      {
+        "time": "10:00",
+        "upto_turn": 9,
+        "share_of_call": 0.24,
+        "still_empty": [
+          "cheap_labour_blocks_automation",
+          "labour_scarcity_pushes_automation",
+          "customer_requirements_drive_adoption",
+          "new_hires_implement",
+          "packaged_software_misfit",
+          "software_fees_exceed_margins",
+          "ai_used_to_build_software",
+          "older_owners_see_no_need"
+        ]
+      },
+      {
+        "time": "15:00",
+        "upto_turn": 13,
+        "share_of_call": 0.36,
+        "still_empty": [
+          "cheap_labour_blocks_automation",
+          "labour_scarcity_pushes_automation",
+          "customer_requirements_drive_adoption",
+          "packaged_software_misfit",
+          "software_fees_exceed_margins",
+          "ai_used_to_build_software"
+        ]
+      },
+      {
+        "time": "20:00",
+        "upto_turn": 15,
+        "share_of_call": 0.48,
+        "still_empty": [
+          "cheap_labour_blocks_automation",
+          "labour_scarcity_pushes_automation",
+          "packaged_software_misfit",
+          "software_fees_exceed_margins",
+          "ai_used_to_build_software"
+        ]
+      },
+      {
+        "time": "25:00",
+        "upto_turn": 17,
+        "share_of_call": 0.6,
+        "still_empty": [
+          "cheap_labour_blocks_automation",
+          "labour_scarcity_pushes_automation",
+          "packaged_software_misfit",
+          "software_fees_exceed_margins",
+          "ai_used_to_build_software"
+        ]
+      },
+      {
+        "time": "30:00",
+        "upto_turn": 19,
+        "share_of_call": 0.72,
+        "still_empty": [
+          "cheap_labour_blocks_automation",
+          "packaged_software_misfit",
+          "software_fees_exceed_margins",
+          "ai_used_to_build_software"
+        ]
+      },
+      {
+        "time": "35:00",
+        "upto_turn": 23,
+        "share_of_call": 0.84,
+        "still_empty": [
+          "cheap_labour_blocks_automation",
+          "packaged_software_misfit",
+          "software_fees_exceed_margins",
+          "ai_used_to_build_software"
+        ]
+      },
+      {
+        "time": "40:00",
+        "upto_turn": 23,
+        "share_of_call": 0.96,
+        "still_empty": [
+          "cheap_labour_blocks_automation",
+          "packaged_software_misfit",
+          "software_fees_exceed_margins",
+          "ai_used_to_build_software"
+        ]
+      },
+      {
+        "time": "41:30",
+        "upto_turn": 24,
+        "share_of_call": 1.0,
+        "still_empty": [
+          "cheap_labour_blocks_automation",
+          "packaged_software_misfit",
+          "software_fees_exceed_margins",
+          "ai_used_to_build_software"
+        ]
+      }
+    ]
+  },
+  "Y": {
+    "first_turn": {
+      "approval_by_senior_or_partners": 5,
+      "software_fees_exceed_margins": 7,
+      "tool_replaces_paid_outside_service": 9,
+      "ai_used_to_build_software": 9,
+      "younger_family_member_pushes": 13,
+      "packaged_software_misfit": 15,
+      "older_owners_see_no_need": 13,
+      "new_hires_implement": 17
+    },
+    "timeline": [
+      {
+        "time": "5:00",
+        "upto_turn": 6,
+        "share_of_call": 0.14,
+        "still_empty": [
+          "younger_family_member_pushes",
+          "cheap_labour_blocks_automation",
+          "labour_scarcity_pushes_automation",
+          "customer_requirements_drive_adoption",
+          "new_hires_implement",
+          "packaged_software_misfit",
+          "software_fees_exceed_margins",
+          "tool_replaces_paid_outside_service",
+          "ai_used_to_build_software",
+          "genai_for_writing",
+          "older_owners_see_no_need"
+        ]
+      },
+      {
+        "time": "10:00",
+        "upto_turn": 9,
+        "share_of_call": 0.28,
+        "still_empty": [
+          "younger_family_member_pushes",
+          "cheap_labour_blocks_automation",
+          "labour_scarcity_pushes_automation",
+          "customer_requirements_drive_adoption",
+          "new_hires_implement",
+          "packaged_software_misfit",
+          "genai_for_writing",
+          "older_owners_see_no_need"
+        ]
+      },
+      {
+        "time": "15:00",
+        "upto_turn": 11,
+        "share_of_call": 0.43,
+        "still_empty": [
+          "younger_family_member_pushes",
+          "cheap_labour_blocks_automation",
+          "labour_scarcity_pushes_automation",
+          "customer_requirements_drive_adoption",
+          "new_hires_implement",
+          "packaged_software_misfit",
+          "genai_for_writing",
+          "older_owners_see_no_need"
+        ]
+      },
+      {
+        "time": "20:00",
+        "upto_turn": 15,
+        "share_of_call": 0.57,
+        "still_empty": [
+          "cheap_labour_blocks_automation",
+          "labour_scarcity_pushes_automation",
+          "customer_requirements_drive_adoption",
+          "new_hires_implement",
+          "genai_for_writing"
+        ]
+      },
+      {
+        "time": "25:00",
+        "upto_turn": 17,
+        "share_of_call": 0.71,
+        "still_empty": [
+          "cheap_labour_blocks_automation",
+          "labour_scarcity_pushes_automation",
+          "customer_requirements_drive_adoption",
+          "genai_for_writing"
+        ]
+      },
+      {
+        "time": "30:00",
+        "upto_turn": 19,
+        "share_of_call": 0.85,
+        "still_empty": [
+          "cheap_labour_blocks_automation",
+          "labour_scarcity_pushes_automation",
+          "customer_requirements_drive_adoption",
+          "genai_for_writing"
+        ]
+      },
+      {
+        "time": "35:00",
+        "upto_turn": 20,
+        "share_of_call": 1.0,
+        "still_empty": [
+          "cheap_labour_blocks_automation",
+          "labour_scarcity_pushes_automation",
+          "customer_requirements_drive_adoption",
+          "genai_for_writing"
+        ]
+      },
+      {
+        "time": "35:10",
+        "upto_turn": 20,
+        "share_of_call": 1.0,
+        "still_empty": [
+          "cheap_labour_blocks_automation",
+          "labour_scarcity_pushes_automation",
+          "customer_requirements_drive_adoption",
+          "genai_for_writing"
+        ]
+      }
+    ]
+  }
+}

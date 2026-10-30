@@ -1,0 +1,14 @@
+{"transcript": "X", "cells": [
+{"id": "younger_family_member_pushes", "value": "yes", "turn": 7, "quote": "I had to convince him for the new cutting software, it took me a full season.", "prompted": false},
+{"id": "cheap_labour_blocks_automation", "value": "not_raised", "turn": -1, "quote": "", "prompted": false},
+{"id": "labour_scarcity_pushes_automation", "value": "yes", "turn": 19, "quote": "Tailors are hard to find now. Wages have gone up every year, so we are looking at machines that save labour.", "prompted": true},
+{"id": "customer_requirements_drive_adoption", "value": "yes", "turn": 15, "quote": "Compliance, yes. Audits for labour and for chemicals.", "prompted": true},
+{"id": "new_hires_implement", "value": "yes", "turn": 13, "quote": "We hired a merchandising coordinator, a young girl with a fashion technology degree. She set up the software and now she runs the planning.", "prompted": false},
+{"id": "packaged_software_misfit", "value": "not_raised", "turn": -1, "quote": "", "prompted": false},
+{"id": "software_fees_exceed_margins", "value": "not_raised", "turn": -1, "quote": "", "prompted": false},
+{"id": "tool_replaces_paid_outside_service", "value": "yes", "turn": 5, "quote": "Earlier we paid a freelancer for the tech packs, now I do the draft myself and the pattern master checks it.", "prompted": false},
+{"id": "ai_used_to_build_software", "value": "not_raised", "turn": -1, "quote": "", "prompted": false},
+{"id": "genai_for_writing", "value": "yes", "turn": 5, "quote": "Last year I started using ChatGPT for the buyer emails and for the first draft of the tech packs.", "prompted": false},
+{"id": "older_owners_see_no_need", "value": "yes", "turn": 11, "quote": "He says he knows every buyer personally, he has known some of them for twenty years, so why does he need a system to tell him.", "prompted": false},
+{"id": "approval_by_senior_or_partners", "value": "yes", "turn": 7, "quote": "My father still has the last word on anything that costs money.", "prompted": false}
+]}

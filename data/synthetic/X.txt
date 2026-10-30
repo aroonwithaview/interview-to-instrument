@@ -1,0 +1,73 @@
+# Synthetic transcript written for this repository. No real person or firm.
+# length: 41:30
+Host   0:04
+Good morning, both of you. I'll let the interviewer explain the project.
+
+Interviewer   0:25
+Thank you for joining. We are studying how small and medium firms take up new tools and technology. Could you tell me a little about the business first?
+
+Respondent   0:50
+We make knitwear for export, mostly to Europe. My father started the unit, I came in about six years ago. We are around 300 people in the season, less in the off season.
+
+Interviewer   2:00
+What tools do you use day to day?
+
+Respondent   2:20
+Email, Excel, and a lot of phone. Last year I started using ChatGPT for the buyer emails and for the first draft of the tech packs. Earlier we paid a freelancer for the tech packs, now I do the draft myself and the pattern master checks it.
+
+Interviewer   4:30
+Who decides on things like that?
+
+Respondent   4:50
+My father still has the last word on anything that costs money. I had to convince him for the new cutting software, it took me a full season.
+
+Interviewer   7:10
+How did you convince him?
+
+Respondent   7:30
+I showed him the wastage numbers. Fabric is our biggest cost, so when he saw the wastage going down he agreed.
+
+Interviewer   10:05
+Is there anything he resists?
+
+Respondent   10:20
+A CRM for buyers. He says he knows every buyer personally, he has known some of them for twenty years, so why does he need a system to tell him. And for him that is true. For me it is not, I don't have those twenty years.
+
+Interviewer   13:40
+Who runs the cutting software?
+
+Respondent   14:00
+We hired a merchandising coordinator, a young girl with a fashion technology degree. She set up the software and now she runs the planning. The old staff were not comfortable with it.
+
+Interviewer   17:20
+Do your buyers push you to adopt things?
+
+Respondent   17:40
+Compliance, yes. Audits for labour and for chemicals. Tools, not really.
+
+Interviewer   21:00
+How do you think about cost when you adopt something?
+
+Respondent   21:20
+We look at payback in one season. If it does not pay back in a season my father will not agree.
+
+Interviewer   25:50
+And the workforce, is it easy to find people?
+
+Respondent   26:10
+Tailors are hard to find now. Wages have gone up every year, so we are looking at machines that save labour.
+
+Interviewer   30:30
+How do other exporters in your area work?
+
+Respondent   30:50
+Some bigger ones have full ERP. Most of the smaller ones are like us or behind us.
+
+Interviewer   33:15
+Have you thought about AI beyond the emails?
+
+Respondent   33:35
+Maybe for forecasting orders. But our orders depend on two or three buyers, so I don't know what it would learn from.
+
+Interviewer   40:50
+That's all from me. Thank you so much.

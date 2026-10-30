@@ -1,0 +1,14 @@
+{"transcript": "W", "cells": [
+{"id": "younger_family_member_pushes", "value": "yes", "turn": 5, "quote": "my younger brother came back from his masters. He was the one who said we cannot run the shop floor from one register anymore. He pushed for a production dashboard", "prompted": false},
+{"id": "cheap_labour_blocks_automation", "value": "yes", "turn": 11, "quote": "A robot loader costs what I pay six operators for many years. Labour here is still cheap, so automation does not pay back unless the customer forces it.", "prompted": false},
+{"id": "labour_scarcity_pushes_automation", "value": "not_raised", "turn": -1, "quote": "", "prompted": false},
+{"id": "customer_requirements_drive_adoption", "value": "yes", "turn": 11, "quote": "automation does not pay back unless the customer forces it", "prompted": false},
+{"id": "new_hires_implement", "value": "yes", "turn": 7, "quote": "We hired a young fellow from a polytechnic as an IT coordinator, and he is the one who actually set it up and trains the supervisors.", "prompted": false},
+{"id": "packaged_software_misfit", "value": "yes", "turn": 9, "quote": "Their package was made for a plant that makes the same part all day. We are a job shop, every order has a different routing.", "prompted": false},
+{"id": "software_fees_exceed_margins", "value": "not_raised", "turn": -1, "quote": "", "prompted": false},
+{"id": "tool_replaces_paid_outside_service", "value": "not_raised", "turn": -1, "quote": "", "prompted": false},
+{"id": "ai_used_to_build_software", "value": "not_raised", "turn": -1, "quote": "", "prompted": false},
+{"id": "genai_for_writing", "value": "yes", "turn": 23, "quote": "My brother uses ChatGPT to write quotation emails sometimes.", "prompted": true},
+{"id": "older_owners_see_no_need", "value": "yes", "turn": 7, "quote": "My father did not see the point, he walks the floor every morning and he knows which machine is down.", "prompted": false},
+{"id": "approval_by_senior_or_partners", "value": "yes", "turn": 15, "quote": "For anything above a few lakhs my father has the final word, and he will ask three people before he says yes.", "prompted": false}
+]}

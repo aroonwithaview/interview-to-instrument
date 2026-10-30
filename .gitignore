@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+# real interview transcripts must never be committed
+data/real/

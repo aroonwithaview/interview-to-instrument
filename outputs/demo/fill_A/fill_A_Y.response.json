@@ -1,0 +1,14 @@
+{"transcript": "Y", "cells": [
+{"id": "younger_family_member_pushes", "value": "yes", "turn": 13, "quote": "Yes, yes, that is right. My cousin and I are the ones pushing.", "prompted": true},
+{"id": "cheap_labour_blocks_automation", "value": "not_raised", "turn": -1, "quote": "", "prompted": false},
+{"id": "labour_scarcity_pushes_automation", "value": "not_raised", "turn": -1, "quote": "", "prompted": false},
+{"id": "customer_requirements_drive_adoption", "value": "not_raised", "turn": -1, "quote": "", "prompted": false},
+{"id": "new_hires_implement", "value": "no", "turn": 17, "quote": "Me. That is the problem. If I am travelling, nobody can fix it.", "prompted": false},
+{"id": "packaged_software_misfit", "value": "yes", "turn": 15, "quote": "The software companies make products for the big national distributors, not for people like us.", "prompted": false},
+{"id": "software_fees_exceed_margins", "value": "yes", "turn": 7, "quote": "the big distribution software charges per user every month. With forty users on margins of three or four percent, that is not possible for us.", "prompted": false},
+{"id": "tool_replaces_paid_outside_service", "value": "yes", "turn": 9, "quote": "We stopped paying the developer for changes, I just make them myself now.", "prompted": false},
+{"id": "ai_used_to_build_software", "value": "yes", "turn": 9, "quote": "Last year I built our own order tracker with one of these AI app builders.", "prompted": false},
+{"id": "genai_for_writing", "value": "not_raised", "turn": -1, "quote": "", "prompted": false},
+{"id": "older_owners_see_no_need", "value": "yes", "turn": 13, "quote": "The older partners are happy if billing works.", "prompted": false},
+{"id": "approval_by_senior_or_partners", "value": "yes", "turn": 5, "quote": "Anything big needs all four partners to agree.", "prompted": false}
+]}

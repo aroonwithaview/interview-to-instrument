@@ -1,0 +1,61 @@
+# Synthetic transcript written for this repository. No real person or firm.
+# length: 35:10
+Host   0:03
+Thanks for joining. As I mentioned, this is for a research project, so please speak freely.
+
+Interviewer   0:20
+Thank you. We are studying how small and medium firms take up new tools and technology. Could you start by describing the business?
+
+Respondent   0:40
+We distribute medicines to chemists and hospitals in four districts. It is a partnership between two families, each with two partners. About 60 people, mostly delivery staff.
+
+Interviewer   2:10
+How are decisions made between the two families?
+
+Respondent   2:30
+Anything big needs all four partners to agree. That is why things move slowly. One partner likes to wait and see what others do.
+
+Interviewer   5:00
+What software do you run?
+
+Respondent   5:20
+We had a billing package from a local developer. Every change took months and he charged for each change. And the big distribution software charges per user every month. With forty users on margins of three or four percent, that is not possible for us.
+
+Interviewer   8:45
+So what did you do?
+
+Respondent   9:05
+Last year I built our own order tracker with one of these AI app builders. It took me about three weekends. We stopped paying the developer for changes, I just make them myself now.
+
+Interviewer   12:30
+Did the partners agree to that?
+
+Respondent   12:50
+They agreed because it cost almost nothing. If I had asked for money they would have said no.
+
+Interviewer   16:10
+Do you think it's the younger generation that is bringing in these changes?
+
+Respondent   16:25
+Yes, yes, that is right. My cousin and I are the ones pushing. The older partners are happy if billing works.
+
+Interviewer   19:40
+How do other distributors handle orders?
+
+Respondent   20:00
+Many still use paper ledgers and call the chemists every day. The software companies make products for the big national distributors, not for people like us.
+
+Interviewer   24:30
+Who maintains the tracker?
+
+Respondent   24:50
+Me. That is the problem. If I am travelling, nobody can fix it.
+
+Interviewer   28:00
+Any plans to hire for that?
+
+Respondent   28:20
+Maybe one person. But a good IT person will not stay in a small town for what we can pay.
+
+Interviewer   33:50
+Thank you, that's very helpful.

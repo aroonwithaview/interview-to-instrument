@@ -1,0 +1,3 @@
+# Only needed for the backend you use; the manual backend and the tests need neither.
+anthropic>=1.0
+openai>=1.0

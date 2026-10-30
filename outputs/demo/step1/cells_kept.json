@@ -1,0 +1,288 @@
+{
+  "cells": [
+    {
+      "id": "younger_family_member_pushes",
+      "label": "Younger family member pushes adoption",
+      "definition": "A younger member of the owning family (child, sibling or cousin of the owners) is the person who proposes or pushes for a new digital tool or AI.",
+      "evidence": [
+        {
+          "transcript": "W",
+          "turn": 5,
+          "quote": "the biggest change came when my younger brother came back from his masters. He was the one who said we cannot run the shop floor from one register anymore. He pushed for a production dashboard",
+          "prompted": false
+        },
+        {
+          "transcript": "W",
+          "turn": 7,
+          "quote": "But my brother kept at it.",
+          "prompted": false
+        },
+        {
+          "transcript": "W",
+          "turn": 23,
+          "quote": "My brother uses ChatGPT to write quotation emails sometimes.",
+          "prompted": false
+        },
+        {
+          "transcript": "X",
+          "turn": 7,
+          "quote": "I had to convince him for the new cutting software, it took me a full season.",
+          "prompted": false
+        },
+        {
+          "transcript": "Y",
+          "turn": 13,
+          "quote": "Yes, yes, that is right. My cousin and I are the ones pushing.",
+          "prompted": true
+        }
+      ]
+    },
+    {
+      "id": "cheap_labour_blocks_automation",
+      "label": "Cheap labour makes automation unprofitable",
+      "definition": "Labour is cheap enough that machines or automation that replace workers do not pay back.",
+      "evidence": [
+        {
+          "transcript": "W",
+          "turn": 11,
+          "quote": "A robot loader costs what I pay six operators for many years. Labour here is still cheap, so automation does not pay back unless the customer forces it.",
+          "prompted": false
+        }
+      ]
+    },
+    {
+      "id": "labour_scarcity_pushes_automation",
+      "label": "Rising wages or labour shortage push labour-saving machines",
+      "definition": "Difficulty hiring workers or rising wages lead the firm to consider or adopt machines that save labour.",
+      "evidence": [
+        {
+          "transcript": "X",
+          "turn": 19,
+          "quote": "Tailors are hard to find now. Wages have gone up every year, so we are looking at machines that save labour.",
+          "prompted": false
+        }
+      ]
+    },
+    {
+      "id": "customer_requirements_drive_adoption",
+      "label": "Customers require the tool or practice",
+      "definition": "Customers, through audits or explicit requests, require traceability, compliance or a specific tool, and this triggers or would trigger adoption.",
+      "evidence": [
+        {
+          "transcript": "W",
+          "turn": 11,
+          "quote": "automation does not pay back unless the customer forces it",
+          "prompted": false
+        },
+        {
+          "transcript": "W",
+          "turn": 13,
+          "quote": "The big customers send audit teams. They want traceability, which batch of steel went into which part. That is where the dashboard helped us pass the audit last year.",
+          "prompted": false
+        },
+        {
+          "transcript": "W",
+          "turn": 25,
+          "quote": "If a customer asked for it",
+          "prompted": false
+        },
+        {
+          "transcript": "X",
+          "turn": 15,
+          "quote": "Compliance, yes. Audits for labour and for chemicals. Tools, not really.",
+          "prompted": true
+        }
+      ]
+    },
+    {
+      "id": "new_hires_implement",
+      "label": "New hires do the implementation",
+      "definition": "The firm hired a young, technically trained employee who set up the new tool and now runs it or trains others on it.",
+      "evidence": [
+        {
+          "transcript": "W",
+          "turn": 7,
+          "quote": "We hired a young fellow from a polytechnic as an IT coordinator, and he is the one who actually set it up and trains the supervisors.",
+          "prompted": false
+        },
+        {
+          "transcript": "W",
+          "turn": 9,
+          "quote": "built simple sheets that the coordinator maintains",
+          "prompted": false
+        },
+        {
+          "transcript": "X",
+          "turn": 13,
+          "quote": "We hired a merchandising coordinator, a young girl with a fashion technology degree. She set up the software and now she runs the planning.",
+          "prompted": false
+        }
+      ]
+    },
+    {
+      "id": "packaged_software_misfit",
+      "label": "Packaged software does not fit the firm",
+      "definition": "Available software packages are designed for larger firms or a different production model and do not fit the firm's processes.",
+      "evidence": [
+        {
+          "transcript": "W",
+          "turn": 9,
+          "quote": "Their package was made for a plant that makes the same part all day. We are a job shop, every order has a different routing. So the vendor kept saying change your process to fit the software.",
+          "prompted": false
+        },
+        {
+          "transcript": "Y",
+          "turn": 15,
+          "quote": "The software companies make products for the big national distributors, not for people like us.",
+          "prompted": false
+        }
+      ]
+    },
+    {
+      "id": "software_fees_exceed_margins",
+      "label": "Software fees too high for thin margins",
+      "definition": "Recurring software fees, such as per-user monthly charges, are too high relative to the firm's margins.",
+      "evidence": [
+        {
+          "transcript": "Y",
+          "turn": 7,
+          "quote": "the big distribution software charges per user every month. With forty users on margins of three or four percent, that is not possible for us.",
+          "prompted": false
+        }
+      ]
+    },
+    {
+      "id": "tool_replaces_paid_outside_service",
+      "label": "Tool replaces a paid outside service",
+      "definition": "A new tool, often AI, lets the firm do in-house work it previously paid a freelancer or developer to do.",
+      "evidence": [
+        {
+          "transcript": "X",
+          "turn": 5,
+          "quote": "Earlier we paid a freelancer for the tech packs, now I do the draft myself and the pattern master checks it.",
+          "prompted": false
+        },
+        {
+          "transcript": "Y",
+          "turn": 9,
+          "quote": "We stopped paying the developer for changes, I just make them myself now.",
+          "prompted": false
+        }
+      ]
+    },
+    {
+      "id": "ai_used_to_build_software",
+      "label": "Uses AI to build internal software",
+      "definition": "Someone at the firm used an AI app builder or coding assistant to build a tool the business runs on.",
+      "evidence": [
+        {
+          "transcript": "Y",
+          "turn": 9,
+          "quote": "I built our own order tracker with one of these AI app builders",
+          "prompted": false
+        }
+      ]
+    },
+    {
+      "id": "genai_for_writing",
+      "label": "Uses ChatGPT for writing tasks",
+      "definition": "Someone at the firm uses a generative AI chatbot to draft emails, quotations or documents.",
+      "evidence": [
+        {
+          "transcript": "W",
+          "turn": 23,
+          "quote": "My brother uses ChatGPT to write quotation emails sometimes.",
+          "prompted": true
+        },
+        {
+          "transcript": "X",
+          "turn": 5,
+          "quote": "Last year I started using ChatGPT for the buyer emails and for the first draft of the tech packs.",
+          "prompted": false
+        }
+      ]
+    },
+    {
+      "id": "older_owners_see_no_need",
+      "label": "Older owners see no need for the tool",
+      "definition": "A founder or older owner resists a tool because they already know the business or see no use for it.",
+      "evidence": [
+        {
+          "transcript": "W",
+          "turn": 7,
+          "quote": "My father did not see the point, he walks the floor every morning and he knows which machine is down.",
+          "prompted": false
+        },
+        {
+          "transcript": "X",
+          "turn": 11,
+          "quote": "He says he knows every buyer personally, he has known some of them for twenty years, so why does he need a system to tell him.",
+          "prompted": false
+        },
+        {
+          "transcript": "Y",
+          "turn": 13,
+          "quote": "The older partners are happy if billing works.",
+          "prompted": true
+        },
+        {
+          "transcript": "W",
+          "turn": 7,
+          "quote": "he walks the floor every morning and he knows which machine is down",
+          "prompted": false
+        },
+        {
+          "transcript": "X",
+          "turn": 11,
+          "quote": "he knows every buyer personally... And for him that is true. For me it is not, I don't have those twenty years.",
+          "prompted": false
+        }
+      ],
+      "merged_from": [
+        "older_owners_see_no_need",
+        "owner_knowledge_replaces_system"
+      ]
+    },
+    {
+      "id": "approval_by_senior_or_partners",
+      "label": "Spending needs a senior family member or all partners to agree",
+      "definition": "A tool that costs money is adopted only if a senior family member, or every partner, agrees.",
+      "evidence": [
+        {
+          "transcript": "W",
+          "turn": 15,
+          "quote": "For anything above a few lakhs my father has the final word, and he will ask three people before he says yes.",
+          "prompted": false
+        },
+        {
+          "transcript": "X",
+          "turn": 7,
+          "quote": "My father still has the last word on anything that costs money.",
+          "prompted": false
+        },
+        {
+          "transcript": "X",
+          "turn": 17,
+          "quote": "If it does not pay back in a season my father will not agree.",
+          "prompted": false
+        },
+        {
+          "transcript": "Y",
+          "turn": 5,
+          "quote": "Anything big needs all four partners to agree. That is why things move slowly.",
+          "prompted": false
+        },
+        {
+          "transcript": "Y",
+          "turn": 11,
+          "quote": "If I had asked for money they would have said no.",
+          "prompted": false
+        }
+      ],
+      "merged_from": [
+        "senior_family_final_say",
+        "partner_consensus_required"
+      ]
+    }
+  ]
+}

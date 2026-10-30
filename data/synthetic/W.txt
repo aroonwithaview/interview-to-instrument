@@ -1,0 +1,79 @@
+# Synthetic transcript written for this repository. No real person or firm.
+# length: 38:00
+Host   0:05
+Thanks for making time. I've told you a bit about the research already, so I'll hand over.
+
+Interviewer   0:20
+Thank you. We are studying how small and medium firms take up new tools, software, machines, anything really. Could you start by telling me about the business?
+
+Respondent   0:45
+Sure. We machine components for two-wheeler and tractor makers. My father started it in 1991 with three lathes. Today we have about 120 people on two shifts. I joined full time eight years ago, after working at a bigger supplier.
+
+Interviewer   2:10
+What has changed since you joined?
+
+Respondent   2:30
+Honestly the biggest change came when my younger brother came back from his masters. He was the one who said we cannot run the shop floor from one register anymore. He pushed for a production dashboard, every machine, every job, on a screen in the office.
+
+Interviewer   4:05
+And how did that go?
+
+Respondent   4:20
+The first year was hard. My father did not see the point, he walks the floor every morning and he knows which machine is down. But my brother kept at it. We hired a young fellow from a polytechnic as an IT coordinator, and he is the one who actually set it up and trains the supervisors.
+
+Interviewer   6:40
+Did you buy software for this?
+
+Respondent   7:00
+We tried. We paid an ERP vendor for almost a year. Their package was made for a plant that makes the same part all day. We are a job shop, every order has a different routing. So the vendor kept saying change your process to fit the software. We stopped that and built simple sheets that the coordinator maintains.
+
+Interviewer   9:30
+What about the machines themselves? Have you automated anything?
+
+Respondent   9:50
+Very little. A robot loader costs what I pay six operators for many years. Labour here is still cheap, so automation does not pay back unless the customer forces it.
+
+Interviewer   12:15
+How do customers affect what you adopt?
+
+Respondent   12:35
+The big customers send audit teams. They want traceability, which batch of steel went into which part. That is where the dashboard helped us pass the audit last year.
+
+Interviewer   15:00
+How do decisions on new tools get made?
+
+Respondent   15:20
+For small things I decide. For anything above a few lakhs my father has the final word, and he will ask three people before he says yes.
+
+Interviewer   18:40
+Do other firms in your cluster do the same?
+
+Respondent   19:00
+Most of them are where we were ten years ago. Paper job cards, everything on the phone.
+
+Interviewer   22:30
+Let's talk about your suppliers and how you buy steel.
+
+Respondent   23:00
+We buy from two traders. Everything is on WhatsApp, rates come every morning. We don't need software for that.
+
+Interviewer   27:10
+How do you train new operators?
+
+Respondent   27:30
+Mostly on the job. The senior operator shows them. We tried videos but people did not watch them.
+
+Interviewer   32:20
+One last area. Have you used any AI tools, ChatGPT or anything like that?
+
+Respondent   32:40
+Not really in the business. My brother uses ChatGPT to write quotation emails sometimes. We have not thought about AI for the shop floor.
+
+Interviewer   35:10
+Is there anything that would make you try it?
+
+Respondent   35:30
+If a customer asked for it, or if someone showed me it works in a shop like mine. Not a demo in a hotel.
+
+Interviewer   37:30
+Thank you, this was very helpful.

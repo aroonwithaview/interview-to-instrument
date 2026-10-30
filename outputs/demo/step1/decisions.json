@@ -1,0 +1,56 @@
+{
+  "keep": [
+    "younger_family_member_pushes",
+    "cheap_labour_blocks_automation",
+    "labour_scarcity_pushes_automation",
+    "customer_requirements_drive_adoption",
+    "new_hires_implement",
+    "packaged_software_misfit",
+    "software_fees_exceed_margins",
+    "tool_replaces_paid_outside_service",
+    "ai_used_to_build_software",
+    "genai_for_writing"
+  ],
+  "merge": [
+    {
+      "into": {
+        "id": "older_owners_see_no_need",
+        "label": "Older owners see no need for the tool",
+        "definition": "A founder or older owner resists a tool because they already know the business or see no use for it."
+      },
+      "from": ["older_owners_see_no_need", "owner_knowledge_replaces_system"]
+    },
+    {
+      "into": {
+        "id": "approval_by_senior_or_partners",
+        "label": "Spending needs a senior family member or all partners to agree",
+        "definition": "A tool that costs money is adopted only if a senior family member, or every partner, agrees."
+      },
+      "from": ["senior_family_final_say", "partner_consensus_required"]
+    }
+  ],
+  "drop": [
+    "wait_for_peers_to_adopt",
+    "proof_of_savings_wins_approval",
+    "short_payback_required",
+    "near_free_tools_get_approved",
+    "existing_staff_do_not_take_to_tools",
+    "vendor_changes_slow_and_costly",
+    "builds_own_simple_tools",
+    "no_ai_use_in_core_operations",
+    "too_little_data_for_ai",
+    "tool_depends_on_one_person",
+    "cannot_attract_it_staff",
+    "informal_channels_suffice",
+    "operations_outgrow_manual_records",
+    "peer_firms_less_digitized"
+  ],
+  "notes": {
+    "owner_knowledge_replaces_system": "overlaps older_owners_see_no_need",
+    "partner_consensus_required": "same idea as senior_family_final_say for a partnership",
+    "no_ai_use_in_core_operations": "an absence, not a force; covered by the AI cells",
+    "peer_firms_less_digitized": "about other firms, not the respondent's",
+    "builds_own_simple_tools": "kept the AI version only, for a short demonstration grid",
+    "vendor_changes_slow_and_costly": "close to packaged_software_misfit and software_fees_exceed_margins"
+  }
+}
