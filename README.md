@@ -1,4 +1,4 @@
-# cells-from-conversations
+# interview-to-instrument
 
 Prototype for a two-step process that turns interviews with business leaders into survey-like data.
 
